@@ -1,0 +1,94 @@
+/* body {
+    color: aqua;
+    background-color: black;
+}
+
+div {
+    
+}
+
+h1 {
+ background-color: white;   
+}
+
+*/
+
+.danger {
+    color: red;
+    font-family: cursive;
+    font-size: 24px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: darkgrey;
+}
+
+.success {
+    color: green;
+    font-family: fantasy;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.blueTable {
+    
+}
+
+
+.customImage {
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.topRight {
+    position: absolute;
+    right: 0px;
+    font-size: 20px;
+    color: gold;
+}
+
+.mainImage {
+    width: 100%;
+    height: 100%;
+}
+
+
+.bgimg {
+  background-image: url("bgimg.jpg");
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+
+}
+
+.topMiddle {
+  position: absolute;
+  top: 5%;
+  left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+}
+
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.bottomLeft {
+  position: absolute;
+  bottom: 0;
+  left: 16px;
+}
+
+a {
+    color: silver;
+}
